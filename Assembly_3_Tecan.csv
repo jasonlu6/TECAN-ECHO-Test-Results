@@ -1,0 +1,6 @@
+source plate,source well,destination plate name,destination well,Transfer Volume
+SetupPlate1,B1,Output1,A1,100
+SetupPlate1,E1,Output1,A1,100
+SetupPlate1,D1,Output1,A1,100
+SetupPlate1,A1,Output1,A1,100
+SetupPlate1,C1,Output1,A1,100
