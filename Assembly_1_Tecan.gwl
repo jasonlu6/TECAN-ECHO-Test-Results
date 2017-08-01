@@ -1,0 +1,19 @@
+R;ReagentPlate1;;96 Well Microplate;1;1;Output1;;96 Well Microplate;1;1;6.0;DNA_Test;1000;1;0
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;1;;4.0
+W;
