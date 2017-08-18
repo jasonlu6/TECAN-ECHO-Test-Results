@@ -1,2 +1,5 @@
-# TECAN-ECHO-Test-Results
-The test result files for TECAN / ECHO conversion 
+# TECAN-ECHO Conversion Tools:
+
+# tecan_converter.py: Convert from TECAN to ECHO
+
+# echo_converter.py: Convert from ECHO to TECAN 
